@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋%20I'm%20Sahariar%20Hossain&fontSize=45&fontAlignY=35&desc=AI-Assisted%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20%20I'm%20Sahariar%20Hossain&fontSize=45&fontAlignY=35&desc=AI-Assisted%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
-<h1 align="center">Building World-Class Digital Products with Code & AI 🚀</h1>
+<h1 align="center">Building World-Class Digital Products with Code & AI </h1>
 
 <div align="center">
   <a href="https://portfolio-eta-six-pos3v812ne.vercel.app" target="_blank">
@@ -15,17 +15,17 @@
 
 <br />
 
-### 👨‍💻 About Me
+###  About Me
 I'm a passionate **AI-Assisted Developer and Prompt Engineer** based in Dhaka, Bangladesh. I specialize in building highly responsive, scalable, and beautifully animated full-stack applications at lightning speed by leveraging modern frameworks and Artificial Intelligence.
 
-- 🔭 I’m currently building advanced **Full-Stack SaaS applications** and E-commerce platforms.
-- 🌱 I’m constantly learning and mastering **Next.js App Router, Prisma ORM, and System-Level Prompt Engineering**.
-- 💬 Ask me about: **React, Next.js, Tailwind CSS, and AI Integration**.
-- ⚡ Fun fact: I use AI agents to 10x my development workflow and deliver production-ready code faster.
+-  I’m currently building advanced **Full-Stack SaaS applications** and E-commerce platforms.
+-  I’m constantly learning and mastering **Next.js App Router, Prisma ORM, and System-Level Prompt Engineering**.
+-  Ask me about: **React, Next.js, Tailwind CSS, and AI Integration**.
+-  Fun fact: I use AI agents to 10x my development workflow and deliver production-ready code faster.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend & Styling**  
 <p>
@@ -47,7 +47,7 @@ I'm a passionate **AI-Assisted Developer and Prompt Engineer** based in Dhaka, B
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahariarhossain524-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sahariar's GitHub Stats" />
