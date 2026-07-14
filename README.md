@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋%20I'm%20Sahariar%20Hossain&fontSize=45&fontAlignY=35&desc=AI%20Product%20Engineer%20&%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Sahariar%20Hossain&fontSize=45&fontAlignY=35&desc=AI%20Product%20Engineer%20&%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
-<h1 align="center">Architecting Scalable B2B SaaS & AI-Powered Workflows 🚀</h1>
+<h1 align="center">Architecting Scalable B2B SaaS & AI-Powered Workflows</h1>
 
 <div align="center">
   <a href="https://portfolio-eta-six-pos3v812ne.vercel.app" target="_blank">
@@ -15,17 +15,17 @@
 
 <br />
 
-### 👨‍💻 About Me
+### About Me
 I'm a passionate **AI Product Engineer** based in Dhaka, Bangladesh. I specialize in collaborating with cross-functional teams, validating ideas with users, and architecting AI-powered products that solve real business problems. I treat internal teams as my first-class customers, delivering production-ready, scalable infrastructure.
 
-- 🔭 I’m currently architecting advanced **Full-Stack SaaS applications, E-commerce platforms, and Internal Operation Dashboards**.
-- 🌱 I’m deeply focused on **Next.js App Router, PostgreSQL (Supabase), System-Level Prompt Engineering, and Agentic AI workflows**.
-- 💬 Ask me about: **LLM Integration, React/Next.js Architecture, and Database Design**.
-- ⚡ Fun fact: I leverage AI agents and advanced prompt engineering to rapidly prototype, iterate, and deploy enterprise-grade code.
+- I am currently architecting advanced **Full-Stack SaaS applications, E-commerce platforms, and Internal Operation Dashboards**.
+- I am deeply focused on **Next.js App Router, PostgreSQL (Supabase), System-Level Prompt Engineering, and Agentic AI workflows**.
+- Ask me about: **LLM Integration, React/Next.js Architecture, and Database Design**.
+- Fun fact: I leverage AI agents and advanced prompt engineering to rapidly prototype, iterate, and deploy enterprise-grade code.
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### Tech Stack & Architecture
 
 **Frontend Engineering**  
 <p>
@@ -48,7 +48,7 @@ I'm a passionate **AI Product Engineer** based in Dhaka, Bangladesh. I specializ
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahariarhossain524-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sahariar's GitHub Stats" />
