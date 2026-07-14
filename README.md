@@ -51,9 +51,9 @@ I'm a passionate **AI Product Engineer** based in Dhaka, Bangladesh. I specializ
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahariarhossain524-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sahariar's GitHub Stats" />
+  ![Sahariar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahariarhossain524-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahariarhossain524-sketch&theme=radical&hide_border=true&background=0D1117" alt="Sahariar's GitHub Streak" />
+  ![Sahariar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahariarhossain524-sketch&theme=radical&hide_border=true&background=0D1117)
 </div>
 
 <br/>
